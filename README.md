@@ -1,12 +1,26 @@
-![image](https://github.com/user-attachments/assets/655ca46a-2d23-478e-bd7c-a8ac14057f09)- 👋 Hi, I’m @DILDavid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src= "![36602d65-52dc-4ad6-b46b-597f1a3899b1](https://github.com/user-attachments/assets/71b1b689-5525-4fef-a877-e2526e4f9517)" alt="DILAB Banner" width="80%">
+</p>
 
-<!---
-DILDavid/DILDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# DILAB (Deep Intelligence Laboratory)
+
+**DILAB is a research laboratory at Soongsil University in Seoul, South Korea.**  
+
+The lab specializes in developing **intelligent, secure, and scalable solutions** across various domains, including **Internet of Things (IoT)**, **Distributed Energy Systems**, **Information Security**, and **Artificial Intelligence / Machine Learning**.
+
+
+
+## Research Interests
+- **Internet of Things (IoT):**  
+  5G mobility, adaptive resource scheduling, and crowd-powered sensing
+
+- **Distributed Smart Grid:**  
+  Transactive energy systems, EV integration, and optimization for demand response
+
+- **Security & Privacy:**  
+  Lightweight authentication, smart grid protection, and biometric-based protocols
+
+- **Artificial Intelligence:**  
+  Federated learning, privacy-preserving models, anomaly detection, and AI for mental health diagnosis
+
+> At DILAB, we bridge the gap between intelligent computing and trustworthy systems — empowering future smart environments through innovation and security.
