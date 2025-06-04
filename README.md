@@ -9,7 +9,6 @@
 The lab specializes in developing **intelligent, secure, and scalable solutions** across various domains, including **Internet of Things (IoT)**, **Distributed Energy Systems**, **Information Security**, and **Artificial Intelligence / Machine Learning**.
 
 
-
 ## Research Interests
 - **Internet of Things (IoT):**  
   5G mobility, adaptive resource scheduling, and crowd-powered sensing
@@ -22,5 +21,3 @@ The lab specializes in developing **intelligent, secure, and scalable solutions*
 
 - **Artificial Intelligence:**  
   Federated learning, privacy-preserving models, anomaly detection, and AI for mental health diagnosis
-
-> At DILAB, we bridge the gap between intelligent computing and trustworthy systems — empowering future smart environments through innovation and security.
