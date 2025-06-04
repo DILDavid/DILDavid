@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://github.com/user-attachments/assets/71b1b689-5525-4fef-a877-e2526e4f9517" alt="DILAB Banner" width="80%">
+  <img src= "https://github.com/user-attachments/assets/017fb334-4a65-4455-911e-514293561fed" alt="DILAB Banner" width="80%">
 </p>
 
 # DILAB (Deep Intelligence Laboratory)
