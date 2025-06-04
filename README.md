@@ -2,7 +2,7 @@
   <img src= "https://github.com/user-attachments/assets/017fb334-4a65-4455-911e-514293561fed" alt="DILAB Banner" width="80%">
 </p>
 
-# DILAB (Deep Intelligence Laboratory)
+# DILAB
 
 **DILAB is a research laboratory at Soongsil University in Seoul, South Korea.**  
 
